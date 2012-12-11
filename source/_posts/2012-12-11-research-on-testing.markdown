@@ -6,8 +6,6 @@ comments: true
 categories: 
 ---
 
-# {{ page.title }} #
-
 This is not my first blog post about testing, I have made one before, but with
 other system that difficult blogging code. You can see [here] [1].
 
