@@ -3,8 +3,7 @@ layout: post
 title: "vim"
 date: 2013-03-21 08:50
 comments: true
-categories:
-published: false
+categories: [ english ]
 ---
 
 I'm working with a new old editor. This is not an easy task for me and vim is

@@ -3,7 +3,7 @@ layout: post
 title: "Development Setup"
 date: 2014-01-06 11:29:44 -0300
 comments: true
-categories: rails ruby
+categories: [ english, rails, ruby ]
 ---
 
 When you join a new application is a brand new world, and nothing seems

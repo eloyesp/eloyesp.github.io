@@ -2,6 +2,7 @@
 layout: post
 title: Better case.
 date: '2014-05-25 02:11:09'
+category: [ español ]
 ---
 
 Se me ocurrió una idea para una gema, como pasa cada tanto, el problema es que hacer una gema muy pequeña toma más tiempo del que uno quisiera.

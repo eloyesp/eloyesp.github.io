@@ -2,6 +2,7 @@
 layout: post
 title: Tengo otro blog
 date: '2014-02-21 02:31:55'
+categories: [ español ]
 ---
 
 Y con este ya son tres, pero, me parece que este va a quedar. Andaba con ganas de tener algo simple para blogear todos los días e indudablemente quería algo como [Ghost][1]. Bueno, no me fue fácil, principalmente porque hay algunos problemas (como que instalarlo es un dolor de huevos y la documentación es muy vaga o desactualizada).

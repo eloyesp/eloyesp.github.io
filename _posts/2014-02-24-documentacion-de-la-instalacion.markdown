@@ -2,6 +2,7 @@
 layout: post
 title: Documentación de la instalación.
 date: '2014-02-24 19:30:00'
+categories: [ español ]
 ---
 
 Bueno, el tema ahora es escribir la documentación, pero bajo el concepto de que la documentación debe estar en el código.

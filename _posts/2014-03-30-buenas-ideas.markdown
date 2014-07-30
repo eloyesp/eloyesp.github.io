@@ -2,6 +2,7 @@
 layout: post
 title: Buenas ideas
 date: '2014-03-30 18:59:56'
+categories: [ español ]
 ---
 
 Las buenas ideas están ahí todo el tiempo, al principio parece que van a escasear, como cuando uno tiene la hoja en blanco y cree que nunca vas a encontrar con que llenarla, después encontrás cada vez más ideas, hasta que no tenés tiempo de escribirlas todas.

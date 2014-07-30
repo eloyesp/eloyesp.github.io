@@ -2,6 +2,7 @@
 layout: post
 title: diagramas con Cacoo
 date: '2014-03-05 20:25:49'
+categories: [ español ]
 ---
 
 Bueno, tenía que hacer un diagrama para explicar una idea, preguntando probé [Cacoo][cacoo] y la verdad que tiene algunos detalles interesantes, como por ejemplo un plan gratis. el formato en si es aceptable y por alguna extraña razón su uso de flash no es una tortura.
