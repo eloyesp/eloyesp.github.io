@@ -12,3 +12,4 @@ github_username:  eloyesp
 # Build settings
 markdown: kramdown
 permalink: pretty
+safe: true
