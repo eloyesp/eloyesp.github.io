@@ -3,7 +3,7 @@ layout: post
 title: "Make specifications more specific"
 date: 2012-12-11 15:26
 comments: true
-categories: 
+categories:
 ---
 
 Ahora estoy haciendo el [curso de codeschool sobre rspec] [1].
@@ -18,14 +18,14 @@ Otra cuestión que es interesante, es que el primer capítulo presenta una synta
 
 Acá pego un ejemplo por si no tienen ganas de buscar mucho...
 
-``` ruby
+~~~ ruby
 # old syntax
 foo.should eq(bar)
 foo.should_not eq(bar)
 # can be changed for
 expect(foo).to eq(bar)
 expect(foo).not_to eq(bar)
-```
+~~~
 
   [1]: http://rspec.codeschool.com
   [2]: http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax "Blog sobre la nueva syntaxis de RSpec"

@@ -3,7 +3,7 @@ layout: post
 title: "vim"
 date: 2013-03-21 08:50
 comments: true
-categories: 
+categories:
 published: false
 ---
 

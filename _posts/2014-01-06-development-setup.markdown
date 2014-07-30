@@ -6,39 +6,39 @@ comments: true
 categories: rails ruby
 ---
 
-When you join a new application is a brand new world, and nothing seems 
-to work as expected. You would like a useful README, some scripts to get 
-you running fast and good documentation. These never happens, but I 
-thing that this new dev will add useful information from that experience 
+When you join a new application is a brand new world, and nothing seems
+to work as expected. You would like a useful README, some scripts to get
+you running fast and good documentation. These never happens, but I
+thing that this new dev will add useful information from that experience
 as this is **not** only needed for him to start.
 
-They have to be able to setup the app and find documentation with the 
-source, if they don't then **you** have an issue. The application have 
-to be easy to start on development, because if it is not easy it will 
+They have to be able to setup the app and find documentation with the
+source, if they don't then **you** have an issue. The application have
+to be easy to start on development, because if it is not easy it will
 not be easy to **deploy** or to **scale**.
 
-So make sure you can clone the repo and get a working environment with a 
-single command. If there is no single command you should be adding a 
-script. Make a development version of the environment variables 
+So make sure you can clone the repo and get a working environment with a
+single command. If there is no single command you should be adding a
+script. Make a development version of the environment variables
 available on the repo, to make this even possible.
 
-Move all the configuration to environment variables to make deploys 
-easier to manage. Having a development version of them help documenting 
+Move all the configuration to environment variables to make deploys
+easier to manage. Having a development version of them help documenting
 them. You can use [dotenv][1] to get that with rails.
 
-``` sh
+~~~ sh
 MYSQLUSER=useful_for_development
 MYSQLPASSWORD=password_is_the_same_in_dev_machines
-```
+~~~
 
-If you need some backend applications then use [foreman][2] to start 
+If you need some backend applications then use [foreman][2] to start
 them using a single Procfile (that will then document that):
 
-``` yaml
+~~~ yaml
 web:      bundle exec rails server
 redis:    redis-server
 sidekick: sidekiq -C config/sidekiq.yml
-```
+~~~
 
 And foreman reads your .env file by default!
 

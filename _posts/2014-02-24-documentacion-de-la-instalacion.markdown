@@ -15,7 +15,7 @@ La opción que probé, es escribir las instrucciones básicas en un archivo `DEP
 Luego, hay que agregar una última linea, en el archivo `.yardopts`.
 
 	--files DEPLOYMENT.md
-    
+   
 
 
   [cap]: http://capistranorb.com/

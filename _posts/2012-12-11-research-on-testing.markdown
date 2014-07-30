@@ -3,7 +3,7 @@ layout: post
 title: "Research on testing"
 date: 2012-12-11 13:12s
 comments: true
-categories: 
+categories:
 ---
 
 This is not my first blog post about testing, I have made one before, but with

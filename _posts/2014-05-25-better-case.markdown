@@ -12,13 +12,13 @@ Esta es bien pequeña, la idea es hacer que el operador `===` sea un poco más i
 
 Por ejemplo, en Array `===` es lo mismo que `===` y me da la impresión de que sería mucho más útil un `includes?`. Los nombres de clases se pueden usar para testear clases (usando `kind_of?`) pero no hay un mecanismo fácil para hacer duck type, mientras que `symbol` está casi al dope. Para mí es bastante obvio que hay que hacer que hacer:
 
-```ruby
+~~~ruby
 class Symbol
   def === obj
     obj.respond_to? self
   end
 end
-```
+~~~
 
 No opinan igual?
 
