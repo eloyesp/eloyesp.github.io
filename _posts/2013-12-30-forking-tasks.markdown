@@ -3,7 +3,7 @@ layout: post
 title: "Forking Tasks"
 date: 2013-12-30 14:34
 comments: true
-categories: ruby rails performance
+categories: [ ruby,  rails, performance ]
 ---
 
 There is a task that takes too much time, we didn't want the user to

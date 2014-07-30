@@ -4,7 +4,6 @@ title: "Securely bypass csrf with a trusted external source"
 date: 2013-04-05 11:22
 comments: true
 categories: [ rails ]
-
 ---
 
 You want your rails application to respond to an external api and recive
