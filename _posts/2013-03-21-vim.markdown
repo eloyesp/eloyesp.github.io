@@ -1,0 +1,22 @@
+---
+layout: post
+title: "vim"
+date: 2013-03-21 08:50
+comments: true
+categories: 
+published: false
+---
+
+I'm working with a new old editor. This is not an easy task for me and vim is
+not easy to learn.
+
+Let's sumarize the most important things I found about this:
+
+- Stand on the shoulder of giants: please, do not start before you copy the
+  dotfiles/vimfiles of someone of your area. (tpope is what I will copy, and
+  tanderlove the one I found first).
+- Learn some basic keys that you think are not usefull, and how you should use
+  them. The main examples I can think of are `.`, `f`, `n`, `*`, `r`.
+- Regular expressions are super custom, and `\v` is really needed there.
+- Finding the solution is never an easy task, but once you have the solution,
+  it keeps working.

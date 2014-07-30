@@ -1,0 +1,103 @@
+---
+layout: post
+title: "Using Vim"
+tagline: "Why Vim defects are awesome"
+date: 2013-04-30 10:03
+comments: true
+categories: [ editors ]
+
+---
+
+I'm starting to use Vim and I don't think I will change again, it is not
+easy to start using it, but it's not impossible.
+
+## Modal editor ##
+
+> "the best code is no code at all"
+
+Once I heard that the tools you use help you doing things in a certain
+way, making easy do it the good way or the bad way.
+
+Is hard to write with ruby bad object oriented code (this is the idea).
+The idea is to make easy to make readable code and make harder the
+opposite.
+
+Well Vim makes easy to think on the code in a certain way. The first you
+note when enter Vim is that you have an extra step to insert text, this
+is the very first impression and the most disgusting. And it is right.
+
+Adding text should not be easy. This extra step makes possible to
+rethink before typing. Vim makes it easy to move on the text, to edit
+existing text it just makes difficult to add bunch of text.
+
+<!--more-->
+
+## Vim has defects. ##
+
+> "Love the defects or do not love."
+
+I hate people that presents things that have no problem and work great,
+this is shit, Vim have to be chosen by those problems like everything.
+We just described a defect, it makes it harder to write text, this is a
+defect (specially in a text editor).
+
+Vim is in English, everything in Vim is English shit. The keyboard
+layout, the mnemonics, the help files, the ideology, just everything.
+You have to live with that or leave it. It's open source so no-one will
+care if you don't like this.
+
+It's old, and is proud of that, it have a compatible mode to keep
+compatibility with computers before computers, and it is the default
+one. This help you think that everything is in process of being, it
+didn't end now and it didn't started today. If you are writing a new
+book or a new program, keep in mind you are not starting you are just
+continuing a mayor labor.
+
+You will have to learn it, not just the first time. Some people do not
+like that the editor takes precious time, having to learn the editor is
+not an option in Vim and it just don't end.
+
+## Starting with Vim ##
+
+Vim is not easy to start with, but it don't have to be traumatic. There
+is a [post][katz] about how to start with the right foot, the general
+idea is to try to do thinks the usual way at first, and start learning
+new ways on the go. This includes start with some extensions that will
+help on that, so do not use compatible mode or console Vim at first, use
+GVim at the very beginning.
+
+To help with the first steps it's *highly recommended*^&trade; that
+you use some pre-made settings like [janus][janus], that will help you
+get started faster. Once you have this start using it, and try to learn
+something new each day.
+
+## Vim magic ##
+
+It has some good moments, there are things that will make you happy.
+There are things that at first seems strange but you get used to how it
+works. Lets see some of them:
+
+- Do, repeat, undo. This is the way to work of Vim instead of multiple
+  cursors or similar. You can use `n` and `N` to repeat a *search* and
+  back, `.` and `u` to repeat and *action* and undo and `;` and `,` to
+  repeat the `f` and `t` moves and back.
+- Syntax highlighting. Yes, all editors have this, but not as Vim has,
+  because it have it first (or second after emacs), there are plug-ins
+  for every language that exists and often there is more than one.
+- It works from the console. So you will have the same functionality
+  when you lack a GUI.
+- It's everywhere. Once you know it you find that lots of shortcuts work
+  on every program you use, your shell have a vi mode, gmail respond to
+  vi shortcuts, github too and many more.
+- Regex don't suck, but you should learn the `\m`, `\v`, `\zs` and `\ze`
+  modificators first.
+
+## Last notes ##
+
+There is a lot to learn, there are so many tips that you will never know
+half of them. But please, leave in the comments the one you think I
+missed here.
+
+  [katz]: http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/
+
+  [janus]: https://github.com/carlhuda/janus/

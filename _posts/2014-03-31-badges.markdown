@@ -1,0 +1,26 @@
+---
+layout: post
+title: Badges
+date: '2014-03-31 20:17:43'
+---
+
+Ya lo se, es una cuestión menor, pero las pequeñas cosas que hacen que algo sea un poco más perfecto, son geniales.
+
+Hoy me encontré con http://shields.io/ una aplicación web que es increible, entré al repo de *bundler* y me encontré con que los logitos esos que yo con mucho esfuerzo había puesto a andar, a ellos se les veían más lindos, eso no pudo menos que darme envidia.
+
+Así que manos a la obra me puse a ver como hacer para conseguir lo mismo.
+
+Primero cambié el lugar de los badges para que estuvieran arriba (me gustó el efecto). Después los fuí cambiando para que apuntaran a http://shields.io/. Y las imagenes se empezaron a ver mejor, pero algunas no andaban, así que tuve que corregir algunas cosas que también estaban mal (como por ejemplo que el badge pertenecía a otro proyecto...) y ahí me di cuenta de lo peor, [code climate](http://blog.codeclimate.com/blog/2013/09/11/test-coverage-and-code-quality-better-together/) agregó test-coverage, así que tenía otra badge que no estaba usando.
+
+Bueno, el problema es que eso implicaba aprender a usar [`travis`](travis-ci.org) un poco más en profundidad y hacer cosas como encriptar claves...
+
+	$ travis encrypt CODECLIMATE_REPO_TOKEN=tokenseguro
+	Please add the following to your .travis.yml file:
+	
+	  secure: "VrMPhe6iFBMkMIe/4rtS8UDVqtBpuuJPWocBVveIzGHcHUWJ5PH3ieoqEEZZSihM0bbs8aMFka0rrLcerTM8/eVTK+LsQN61OFPo0DAayMh7ik29RqSCvoGYkE8W6v3dt/JLPMLfxZAb4OFDThBVbMa7LR241JVcb+9SqHrgDAw="
+
+Así que de pronto tengo el token seguro guardado en un lugar público... loco no?
+
+Bueno, así que quedó el test coverage, pero faltaba algo más... también agregué un badge especial, con la licencia, al cual además le puse el color correspondiente al logo de la licencia (que pude extraer gracias a http://www.cssdrive.com/imagepalette/index.php) y ahí me di por satisfecho.
+
+Por si les interesa, quedó mejor que el de bundler, ahora hasta me dan un poco de pena :)
