@@ -2,7 +2,6 @@
 layout: post
 title: Pasar las horas
 date: '2014-03-31 17:17:42'
-categories: [ español ]
 ---
 
 Pasar las horas, es indiscutiblemente la peor parte del desarrollo y es que tiene una contradicción con la esencia de la idea del desarrollo de software.

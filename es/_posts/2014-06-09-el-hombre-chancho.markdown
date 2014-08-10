@@ -3,7 +3,7 @@ layout: post
 title: "El hombre chancho"
 date: 2014-06-09 09:43:28 -0300
 comments: true
-categories: [ meditaciones, español ]
+tags: [ meditaciones ]
 ---
 
 Estuve escuchando [el corazón de las muñecas][1] de Zambayonny, que como

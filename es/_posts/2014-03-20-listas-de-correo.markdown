@@ -2,7 +2,6 @@
 layout: post
 title: Listas de correo
 date: '2014-03-20 20:46:15'
-categories: [ español ]
 ---
 
 Entre las cosas que me cuestan, una de las primeras es la cuestión de pertenecer, por ejemplo, estuve cerca del centro de estudiantes, pero nunca fuí parte, en la carrera de matemática era me llevaba bien con alguna gente, pero no pasaba de eso, el tema del software libre me interesa, pero no formo parte de ninguna comunidad.

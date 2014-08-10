@@ -4,7 +4,7 @@ title: "Using Vim"
 tagline: "Why Vim defects are awesome"
 date: 2013-04-30 10:03
 comments: true
-categories: [ english, editors ]
+tags: [ editors ]
 ---
 
 I'm starting to use Vim and I don't think I will change again, it is not

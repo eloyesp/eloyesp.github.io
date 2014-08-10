@@ -2,7 +2,6 @@
 layout: post
 title: Planificación de primero.
 date: '2014-03-04 22:15:37'
-categories: [ español ]
 ---
 
 Bueno, empieza el año lectivo y hay que empezar a pensar otra vez, qué enseñar y por qué enseñar, o sea, que puede haber de interesante para enseñarle a los chicos. En este sentido, me propongo en este año lograr un par de cambios sustanciales en los alumnos, por lo que pongo dos temas troncales primero que nada. Las reglas siguen estando ahí y agrego una breve justificación de cada tema.

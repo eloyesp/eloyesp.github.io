@@ -2,7 +2,6 @@
 layout: post
 title: Viaje a lojangele
 date: '2014-04-14 19:52:37'
-categories: [ español ]
 ---
 
 Bueno, fué una semana de mierda, pasaron cosas que para alguien podrían ser buenas, como que me dijeron que tenía un viaje pago a Los Angeles, (que al parecer queda en California).
