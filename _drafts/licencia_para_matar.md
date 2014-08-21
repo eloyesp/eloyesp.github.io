@@ -3,18 +3,28 @@ author: Eloy Espinaco (@eloyesp) Y Pablo Oldani (@olvap)
 title: Licencia para matar
 layout: post
 resumen: |
-  La licencia MIT se plantea por defecto en los desarrollos de código abierto
-  en Ruby, en reemplazo de las licencias copyleft. ¿Cual es el impacto que esto
-  acarrea y cómo nos perjudica? En esta charla vamos a debatir, introducir
-  algunos conceptos y sacar a la luz las implicancias como la arquitectura
-  modular, la seguridad informática y la educación.
+  En la presentación nos planteamos desenmascarar a las licencias tipo BSD/MIT
+  mostrando que disfrazadas de software libre sirven intereses ajenos. Por otro
+  lado analizamos las consecuencias del software privativo, en el ámbito
+  político/económico, desde el punto de vista filosófico y sus implicancias en
+  la educación.
+
+  Por conclusión vamos a reconstruir esta situación en términos locales, en la
+  cual los desarrolladores trabajan, principalmente, para "afuera", para así
+  poder aclarar que es lo que dejamos "acá".
+
 importancia: |
-  La comunidad de ruby en argentina planteó el tema del software libre como una
-  problemática en las últimas conferencias, el uso de mac fué criticado por
-  unos y defendido por otros, pero no hubo charlas al respecto. El cierre de la
-  última ruby conf, planteó el problema de la desvinculación de los
-  programadores con las problemáticas sociales y la cuestión del software libre
-  no nos parece menor.
+  El hecho de que la mayoría de los asistentes trabajan para afuera, hacen que
+  este sea el público al que necesitamos hacer llegar estas ideas. A la vez,
+  creemos que la comunidad de ruby es partícipe en el proceso de desarrollo y
+  debíera hacerse responsable de las elecciones que estamos tomando como
+  comunidad, pero, para lograrlo, tenemos que poder mostrar, que algunas cosas
+  que parecen copadas a simple vista, en realidad nos juegan en contra.
+
+  Sabemos que el tema es pesado, vimos que ya no está como tema propuesto en la
+  combocatoria a charlas, nosotros también hacemos robótica y tenemos gemas
+  geniales para mostrar, pero también sabemos que este tema es importante, que
+  es tema que da miedo hablar porque también "trabajamos para afuera".
 
 ---
 
