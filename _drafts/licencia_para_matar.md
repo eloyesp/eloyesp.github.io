@@ -2,7 +2,7 @@
 author: Eloy Espinaco (@eloyesp) Y Pablo Oldani (@olvap)
 title: Licencia para matar
 layout: post
-resumen: |
+abstract: |
   En la presentación nos planteamos desenmascarar a las licencias tipo BSD/MIT
   mostrando que disfrazadas de software libre sirven intereses ajenos. Por otro
   lado analizamos las consecuencias del software privativo, en el ámbito
@@ -13,7 +13,7 @@ resumen: |
   cual los desarrolladores trabajan, principalmente, para "afuera", para así
   poder aclarar que es lo que dejamos "acá".
 
-importancia: |
+significance: |
   El hecho de que la mayoría de los asistentes trabajan para afuera, hacen que
   este sea el público al que necesitamos hacer llegar estas ideas. A la vez,
   creemos que la comunidad de ruby es partícipe en el proceso de desarrollo y
