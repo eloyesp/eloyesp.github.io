@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Achis design principles
+author: Eloy Espinaco
 
 ---
 
@@ -121,10 +123,15 @@ that Services does not corrupt the code.
 This ensure that we keep flexibility and best practices. When code is to
 be published you make it better.
 
-# Notes
+## Thanks
 
-- http://tomayko.com/writings/adopt-an-open-source-process-constraints
+![Enjoy](/images/the-green-dragon.jpg)
 
-- http://tom.preston-werner.com/2011/11/22/open-source-everything.html
+### Links:
 
+- [Adopt open source process constraints][1]
 
+- [Open source almost everything][2]
+
+ [1]: http://tomayko.com/writings/adopt-an-open-source-process-constraints
+ [2]: http://tom.preston-werner.com/2011/11/22/open-source-everything.html
