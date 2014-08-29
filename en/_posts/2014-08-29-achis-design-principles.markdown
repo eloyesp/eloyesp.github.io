@@ -7,7 +7,7 @@ author: Eloy Espinaco
 
 Achis is a private gem that is designed to handle ACH providers for
 Servicing. Achis have three main enemies, Servicing, providers and ruby
-dependencies. Achis is designed to hide the horrible names that they use.
+dependencies. Achis is designed to hide the names that they use.
 
 ## Template pattern for providers.
 
