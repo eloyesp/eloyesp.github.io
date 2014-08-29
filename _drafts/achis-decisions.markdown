@@ -9,7 +9,9 @@ dependencies. Achis is designed to hide the horrible names that they use.
 
 ## Template pattern for providers.
 
-The first architecture decision is to protection from the ugly providers.
+The first architecture decision is to protect from the ugly providers.
+
+![> You shall not pass](/images/you-shall-not-pass.jpg)
 
 ~~~ ruby
 # Download return files and parse them
@@ -33,6 +35,10 @@ define pull or push they can't change the gem. The gem main work is to
 hide the complexity, not to communicate that.
 
 ## Adapter pattern for external dependencies.
+
+We need to rule over connections.
+
+![> One ring to rule them all](/images/one-ring-to-rule-them-all.jpg)
 
 ~~~ ruby
 require 'double_bag_ftps'
@@ -84,11 +90,41 @@ This also allows testing providers in isolation and faster development.
 
 ## Good and descriptive names
 
+![> We need to work with gollum](/images/working-with-gollum.jpg)
+
+~~~ ruby
+module Achis
+  class ReturnRecord
+
+    alias :unique_transaction_id :transaction_id
+    alias :return_reason_code :nacha_code
+    alias :return_date :date
+    alias :correction_detail :description
+
+  end
+end
+~~~
+
 Variable naming is one of the main problem I see in services, so we
 protect from it all the time, we encapsulate Transactions and Returns in
 objects with human named attributes. We also provide aliases so Services
-codes remains working, but they are only aliases.
+code keeps working, but they are only aliases.
 
-## Development processes
+## Open source
 
-WIP.
+![> Keep corruption away](/images/isildur.jpg)
+
+One of the main goals is to keep the gem clean, for this, the rule is
+that Achis should be easy to realease "open source". That makes sure
+that Services does not corrupt the code.
+
+This ensure that we keep flexibility and best practices. When code is to
+be published you make it better.
+
+# Notes
+
+- http://tomayko.com/writings/adopt-an-open-source-process-constraints
+
+- http://tom.preston-werner.com/2011/11/22/open-source-everything.html
+
+
