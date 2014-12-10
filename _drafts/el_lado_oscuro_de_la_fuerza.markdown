@@ -31,18 +31,40 @@ nos dice que "No utilicemos el lado oscuro de la fuerza" y ahí nos
 quedamos todos tranquilos, porque no tenemos sables laser y nuestro
 trabajo no tiene nada que ver con la fuerza.
 
-Obvio que nos estamos haciendo los boludos, algo estamos perdiendo en el
+Obvio que nos estamos *haciendo los boludos*, algo estamos perdiendo en el
 camino.
 
 ## ¿Qué es el lado oscuro?
 
-El lado oscuro sale de las emociones violentas, es el dejarse llevar por
-las emociones.
+> El miedo conduce a la ira, la ira conduce al odio, el odio al sufrimiento.
 
-Solo utilizar la fuerza para defensa y para conocer.
+Yoda nos dice que el poder del lado oscuro es tentador, que al usarlo quedamos
+prendados y nos convertimos en esclavos de éste.
 
-El miedo conduce a la ira, la ira conduce al odio, el odio al sufrimiento.
+El lado oscuro es el uso permisivo de la energía proveniente de las emociones
+violentas, es dejarse llevar. Las emociones que nos guían no son tan inocentes
+y quizás es el momento para repensar que emociones nos motivan, que emociones
+nos controlan.
 
-Los cuatro gigantes del alma.
+## Mac
+
+> The Power to Be Your Best
+
+El uso de mac es uno de los mas claros exponentes del lado oscuro, es tentador
+y es esclavizante. Las emociones que te llevan a elegirla son la impaciencia,
+la pereza, la vanidad y el miedo.
+
+Sin embargo, la mac no es la única forma en que elegimos el lado oscuro, muchas
+decisiones son tomadas sin considerar cuales son las emociones que nos guían.
+Cada vez que elegimos el camino fácil, cuando copiamos y pegamos código mágico,
+cuando utilizamos herramientas genéricas para problemas puntuales, como jquery
+o bootstrap, soluciones rápidas que no entendemos y que solucionan casi todo.
+
+## Programación defensiva
+
+> "Su Fuerza un Jedi usa, para el conocimiento y la defensa. Nunca para atacar"
+
+Es entonces el momento de revisitar nuestras prácticas, los tests son una
+defensa (no la única, por supuesto), requieren paciencia mucha. Refactoriar
 
 
