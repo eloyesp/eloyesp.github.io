@@ -1,0 +1,23 @@
+#!/bin/bash
+
+set -e
+
+new() {
+  echo -n "Nombre de la nota: "
+  read TITULO
+  DATE=`date +%Y-%m-%d`
+  FILENAME="es/_posts/$DATE-${TITULO// /-}.markdown"
+  echo "---
+title: $TITULO
+layout: post
+
+---
+
+" >> $FILENAME
+  vi $FILENAME
+}
+
+case "$1" in
+  new) new;;
+esac
+
