@@ -2,6 +2,113 @@
 layout: page
 ---
 
+# Comunicación
+
+1. Definir el mensaje de antemano y su importancia, abstenerse si no está
+   listo.
+
+2. Observar la audiencia y prevenir falsas asunciones e información faltante,
+   para evitar malentendidos.
+
+3. Cada canal tiene ventajas y desventajas (merece sección aparte)
+
+4. El receptor tiene ideas previas que afectan fuertemente.
+
+5. Prestar atención (y mucha) al feedback.
+
+## Lo más importante no es el mensaje
+
+Lo más importante, en la comunicación, no es el mensaje, ni que este sea
+entendido, ya que eso es remediable, sino la buena onda entre las partes, ya
+que esto permite que la misma continúe.
+
+## Qué y cuándo
+
+Al principio de una relación la **prioridad es la relación**, no el mensaje. Si no
+te conoces bien con el receptor, esta bueno descartar todo lo que no es
+super-ultra esencial (especialmente en canales virtuales). Conviene por otro
+lado, poner el foco en aprender sobre ellos, su cultura, sus necesidades,
+sentimientos, etc, cosa de poder ajustar el mensaje a ellos con más detalle en
+futuras entregas.
+
+Una vez que el receptor es más conocido y el canal lo permite, es posible dar
+mensajes más densos (y quizás más críticos), pero siempre cuidando los
+detalles.
+
+## Canales
+
+El correo no es bueno para hacer críticas, ni tampoco las charlas grupales.
+  
+Si hay una lista larga, es mejor utilizar algo escrito.
+
+# Cultivando la relación
+
+Una de las cuestiones fundamentales para que la comunicación se pueda dar es
+que la actitud de las partes sea buena para llevar a cabo la comunicación.
+
+Hay algunas "actitudes" (digamoslé así hasta encontrar una mejor palabra) que
+facilitan o impiden el dialogo y que a veces se evidencian a veces en el
+lenguaje corporal.
+
+## Confianza (o primeras impresiones)
+
+Una de las cuestiones que hay que cultivar, especialmente al principio, es la
+confianza entre las partes, ya que sin esta la posibilidad de malos entendidos
+sube y la apertura a las críticas baja.
+
+Las marcas de confianza en el lenguaje corporal, son la postura relajada
+(hombros para atrás), contacto ocular, gestos con las manos que tienen sentido
+(no movimiento nervioso), hablar lento y claro y en un tono medio-bajo.
+
+Entonces, es importante observar la actitud del receptor, para ver que está
+cómodo hablando y no se siente amenazado.
+
+Por otro lado, es importante también no mostrar falta de confianza y estar
+ciertamente abierto a negociar.
+
+Por otro lado, la falta de confianza hace que las personas estén a la
+defensiva, lo que impide el diálogo. Los símbolos de alguien a la defensiva
+son: movimiento de manos pequeños y cerca del cuerpo, pocas expresiones
+faciales, mirar para otro lado o para abajo y brazos cruzados.
+
+Cuando se ven esos gestos, lo mejor es cambiar por un rato el tema y ver que
+puede estar bloqueando la conversación, antes que seguir metiendo el dedo en la
+yaga.
+
+Si uno se ve muy a la defensiva, de la misma manera, lo que hay que hacer es
+parar la moto y fijarse que está pasando antes que seguir un camino que no
+lleva a ninguna parte.
+
+# Lenguaje corporal
+
+## Atención
+
+La comunicación no se puede dar si unos están desenganchados de la charla, en
+esos casos los gestos son importantes para poder adaptarse... (falta
+desarrollo)
+
+## Mintiendo
+
+Los signos de que alguien miente son: Movimiento ocular rápido, pupilas
+achicadas, manos tapando la boca, gestos corporales raros, respiración rápida,
+colorado, sudor, cambios en la voz.
+
+Sin embargo, todos estos síntomas, podrían ser simplemente de nervios, por lo
+que es importante tomarlos solo como un indicio para ver de hacer más preguntas
+o investigar un poco más.
+
+## Pensando antes de responder
+
+A veces, ante una buena pregunta, uno simplemente mira para otro lado mientras
+piensa y medita una respuesta y esta bueno.
+
+## Cómo desarrollarlo
+
+Mirar gente con atención, no es necesario que esté hablando con nosotros ni que
+escuchemos lo que está diciendo.
+
+# Las tres "c" de la comunicación
+
 ## Claro
 
 Dejar claro al principio del mensaje, cuál es el objetivo y el contexto.
