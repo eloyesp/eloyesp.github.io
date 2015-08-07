@@ -179,4 +179,4 @@ Al llegar al hospital dejo el auto medio cruzado por ahí y antes de abrirle a
 Mariel agarro todos los bolsos (no cometo el mismo error que la otra vez :) ).
 y salimos para la maternidad, con las mismas paradas cada 25 metros.
 
-Continuará.
+[Continúa en parte 2]({% post_url 2015-08-07-el-parto-parte-2 %})
