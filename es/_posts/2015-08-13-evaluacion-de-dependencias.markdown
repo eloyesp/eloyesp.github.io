@@ -58,15 +58,15 @@ Otra posible brecha, es que el uso de la librería quede desperdigado por toda
 la aplicación ya que de esa manera, un cambio en la interfase de la librería
 provocaría un cambio muy extenso en la aplicación.
 
-En resumen, el uso de librerías externas **puede** ayudar a mejorar la
+En resumen, el uso de librerías externas *puede* ayudar a mejorar la
 arquitectura de la aplicación, siempre y cuando, la librería no sea
-contaminante del espacio global.
+**contaminante** del espacio global.
 
 ## Sinergia
 
-Es importante tener en cuenta que hay librerías que están más
-orientadas a evolucionar de forma más o menos constante, mientras otras tienen
-un fin preciso y una vez que funcionan suelen mantenerse estables por años.
+Es importante tener en cuenta que hay librerías que están más orientadas a
+evolucionar de forma más o menos constante, mientras otras tienen un fin
+preciso y una vez que funcionan suelen mantenerse "estables" por años.
 
 En el caso de las librerías estables no hay una evolución de la librería a
 tener en cuenta, pero en el caso de las cambiantes es de suma importancia la
@@ -80,22 +80,9 @@ más difícil de integrar y aumenta el número de funciones inútiles.
 
 # Conclusión
 
-Me gustaría entonces hacer un resumen de las categorías a tener en cuenta para
-elegir dependencias:
-
- - Funcionalidad: teniendo en cuenta como positivas aquellas que nos son útiles
-   y como negativas aquellas que no.
-
- - Claridad: el código de la librería debe ser comprensible ya que a la larga
-   nos vamos a chocar con él a la hora de debuguear.
-
- - Invasiva: si las dependencias invaden el espacio global a la larga generan
-   conflictos.
-
- - Contaminante: si una dependencia se desperdiga en el código.
-
- - Sinergia: Cuando una librería evoluciona de forma convergente con la
-   aplicación.
+Me parece importante que se discuta un poco más al agregar dependencias y
+categorías como "deuda técnica", "contaminación", "estabilidad" y "sinergia"
+pueden ayudar en estos debates.
 
 # Links de interés
 
