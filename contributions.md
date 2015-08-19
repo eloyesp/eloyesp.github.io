@@ -7,3 +7,5 @@ layout: page
   - [fixed examples](https://github.com/soveran/ohm/pull/187) [and added as tests](https://github.com/soveran/ohm/pull/189)
 - [Fixed documentation for structs on yard](https://github.com/lsegal/yard/pull/820)
 - [Add documentation to mote](https://github.com/soveran/mote/pull/3)
+- [Rspec: implement composed
+  assertions](https://github.com/rspec/rspec-expectations/pull/329)
