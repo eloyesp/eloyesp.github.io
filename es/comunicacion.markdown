@@ -222,3 +222,58 @@ Lo importante es darle a las cuestiones de comunicación el tiempo y la atenció
 que merecen. Prestar atención al redactar, darse el tiempo para planificar y
 tener claro qué decir, tener en cuenta al receptor, estar atento a las
 respuestas y a las dudas que puedan surgir.
+
+# Emociones
+
+Las emociones propias pueden resultar difíciles, pero perteneces al espacio
+de libertad de uno y se pueden manejar.
+
+## Frustración
+
+Cuando nos bloquean el avance y nos dejan plantados esperando para poder
+avanzar. Para poder manejar éstas situaciones es necesario encontrar el lado
+positivo ya que en general es simplemente que uno esperaba cierto desenlace,
+pero en general es posible adaptarse y aprovechar esta nueva circunstancia.
+
+Es importante también tener en cuenta que irritarse suele no tener efecto
+positivo sobre la situación.
+
+## Preocupación
+
+Las cuestiones que nos preocupan son aquellas que nos generan ansiedad pero
+sobre las cuales no tenemos acciones importantes para realizar, o sea no
+podemos ocuparnos.
+
+En estos casos es importante no juntarse a preocuparse juntos, respirar y de
+ser posible plantear acciones posibles reales en una lluvia de ideas.
+
+Una buena idea es anotar esas preocupaciones en un bloc de notas para
+analizarlo en detalle y con claridad en una fecha específica.
+
+## Ira
+
+La ira no es fácil, la clave es darse cuenta temprano y bajar un cambio, cerrar
+los ojos y respirar profundo.
+
+## Gente que nos cae mal
+
+Es importante no "volverse una persona que nos cae mal" cuando estamos frente a
+uno. Que alguien sea irrespetuoso no justifica cualquier falta de respeto. (Ahí
+me gustaría hacer un par de excepciones, pero...).
+
+Así que lo mejor es ser asertivo (claro, conciso y respetuoso) en estas
+situaciones.
+
+## Desilusión 
+
+Cuando las cosas no salen bien uno queda sin ganas de ponerle pilas al proyecto
+siguiente, así que es muy importante cambiar la perspectiva (porque las
+posibilidades de que algo salga mal solo aumentan si uno no le pone pilas).
+
+Una idea simple para cambiar esa actitud es *sonreir*, eso tiende a ponerlo a
+uno más animoso, por ridículo que suene.
+
+# En general
+
+Al parecer, lo importante es ser conscientes y anotar para poder actuar sobre
+estas emociones con la mente fresca.
