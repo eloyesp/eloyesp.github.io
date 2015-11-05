@@ -277,3 +277,46 @@ uno más animoso, por ridículo que suene.
 
 Al parecer, lo importante es ser conscientes y anotar para poder actuar sobre
 estas emociones con la mente fresca.
+
+# Motivación
+
+La motivación del equipo es importante porque ayuda a que el mismo trabaje
+mejor, pero puede ser difícil de lograr y mantener. Como en casi todos estos
+temas, una clave importante es que las personas son distintas y los factores
+que motivan a unos y otros son distintos, así que es importante conocer a la
+gente y entender su motivación.
+
+## Tipos
+
+Hay dos tipos de motivación, externas (como la plata o los despidos) e internas
+(diversión, aprendizaje, etc). ¿Cuál es más importante? Depende, de la persona
+
+## Expectativas
+
+Un factor importante para la motivación del equipo es el de las expectativas
+que se tienen sobre la motivación de las personas. Los líderes que sospechan
+que el equipo es incapaz de asumir responsabilidades y tomar decisiones,
+tienden a crear un clima de trabajo difícil, que a la larga desmotiva al
+equipo.
+
+## Insatisfacción
+
+El primer paso, es quitar los factores que desmotivan al equipo, para lo cual
+hay que averiguar cuales son. (TODO: investigar sobre esto)
+
+## Motivar
+
+Una vez que se quitaron los factores molestos, es que nos podemos centrar en
+los factores positivos.
+
+## Entender la motivación
+
+Hay varias teorías sobre cómo funciona la motivación, pero el punto central es
+entender que es una cuestión que varía de persona a persona y hay que
+comprender que moviliza a cada persona.
+
+## Liderazgo
+
+Por último es importante formarse en el camino del liderazgo, el cual va más
+allá de la motivación, pero que puede promoverla.
+
