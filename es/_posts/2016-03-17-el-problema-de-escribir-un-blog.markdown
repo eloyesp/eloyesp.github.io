@@ -1,6 +1,6 @@
 ---
 title: El problema de escribir un blog
-layout: blog
+layout: post
 ---
 
 Uno de los problemas que siempre me detiene al escribir el blog, es que distingo dos etapas. Por un lado, hay épocas en las que no pasa nada y se hace muy difícil encontrar algo *realmente interesante* para decir. Por otro lado, hay momentos en que las cosas interesantes nos inundan y simplemente no hay tiempo para escribirlas.
