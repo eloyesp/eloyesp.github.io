@@ -1,6 +1,5 @@
 ---
 title: Precio diferenciado
-layout: post
 date: '2014-11-05 01:07'
 ---
 

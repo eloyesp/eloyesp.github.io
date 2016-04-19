@@ -1,6 +1,5 @@
 ---
 title: Negociando el código
-layout: post
 ---
 
 En un nuevo proyecto, para una nueva software factory vuelvo a tener el mismo drama.

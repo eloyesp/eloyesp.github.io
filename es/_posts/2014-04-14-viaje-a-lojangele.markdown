@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Viaje a lojangele
 date: '2014-04-14 19:52:37'
 ---

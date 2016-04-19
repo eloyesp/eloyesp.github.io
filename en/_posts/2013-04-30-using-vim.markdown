@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Using Vim"
 tagline: "Why Vim defects are awesome"
 date: 2013-04-30 10:03

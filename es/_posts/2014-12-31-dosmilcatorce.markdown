@@ -1,6 +1,5 @@
 ---
 title: Dosmilcatorce
-layout: post
 
 ---
 

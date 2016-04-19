@@ -1,5 +1,4 @@
 ---
-layout: post
 title: diagramas con Cacoo
 date: '2014-03-05 20:25:49'
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tengo otro blog
 date: '2014-02-21 02:31:55'
 ---

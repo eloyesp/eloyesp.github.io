@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Listas de correo
 date: '2014-03-20 20:46:15'
 ---

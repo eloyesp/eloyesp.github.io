@@ -1,6 +1,5 @@
 ---
 title: El parto (parte 2)
-layout: post
 ---
 
 [Parte 1]({% post_url 2015-07-18-el-parto-parte-1 %})

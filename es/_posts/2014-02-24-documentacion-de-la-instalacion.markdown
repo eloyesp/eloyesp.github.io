@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Documentación de la instalación.
 date: '2014-02-24 19:30:00'
 ---

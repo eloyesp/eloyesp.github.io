@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "El hombre chancho"
 date: 2014-06-09 09:43:28 -0300
 comments: true

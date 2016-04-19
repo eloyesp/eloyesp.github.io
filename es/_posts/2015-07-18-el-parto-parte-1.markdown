@@ -1,6 +1,5 @@
 ---
 title: El parto (parte 1)
-layout: post
 ---
 
 Como todos los partos, empezó con un embarazo muy avanzado, empezó con un

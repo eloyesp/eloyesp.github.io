@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Achis design principles
 author: Eloy Espinaco
 

@@ -8,6 +8,12 @@ baseurl: ""
 url: "http://eloyesp.github.io"
 twitter_username: eloyesp
 github_username:  eloyesp
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 
 # Build settings
 markdown: kramdown

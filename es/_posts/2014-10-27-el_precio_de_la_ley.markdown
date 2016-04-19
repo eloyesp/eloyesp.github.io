@@ -1,6 +1,5 @@
 ---
 title: El precio de la ley
-layout: post
 ---
 
 ### Un cuento

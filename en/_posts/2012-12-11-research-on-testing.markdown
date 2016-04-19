@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research on testing"
 date: 2012-12-11 13:12s
 comments: true

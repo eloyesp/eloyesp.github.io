@@ -1,6 +1,5 @@
 ---
 title: Contar toda la historia
-layout: post
 ---
 
 Hablaba con Lionel y pensaba, siempre pienso mientras hablo. Hablando volví a

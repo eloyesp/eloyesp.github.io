@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Securely bypass csrf with a trusted external source"
 date: 2013-04-05 11:22
 comments: true

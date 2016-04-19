@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pasar las horas
 date: '2014-03-31 17:17:42'
 ---

@@ -1,6 +1,5 @@
 ---
 title: Mi experiencia en Pycon
-layout: post
 ---
 
 Llegué de Mendoza hace un rato, llegué con la sensación de que quizás me faltó

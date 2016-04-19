@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Obsolecencia de las prácticas.
 tags: [ meditaciones ]
 date: 2014-08-06 14:46 ART

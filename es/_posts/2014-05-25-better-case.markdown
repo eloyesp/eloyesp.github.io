@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Better case.
 date: '2014-05-25 02:11:09'
 ---

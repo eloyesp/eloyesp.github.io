@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Make specifications more specific"
 date: 2012-12-11 15:26
 comments: true

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: El lado oscuro de la fuerza
 
 ---

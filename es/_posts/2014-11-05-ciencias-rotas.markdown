@@ -1,6 +1,5 @@
 ---
 title: Ciencias rotas
-layout: post
 date: 2014-11-05 19:47:15-03:00
 ---
 

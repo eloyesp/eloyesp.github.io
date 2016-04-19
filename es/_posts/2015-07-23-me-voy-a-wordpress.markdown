@@ -1,6 +1,5 @@
 ---
 title: Me voy a wordpress!!
-layout: post
 ---
 
 Hoy dejo jekyll y me voy a wordpress, después de [blogspot][1] que dejé porque no

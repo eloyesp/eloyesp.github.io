@@ -1,6 +1,5 @@
 ---
 title: Numero de jubilados
-layout: post
 
 ---
 

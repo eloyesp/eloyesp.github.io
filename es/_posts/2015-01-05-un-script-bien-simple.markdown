@@ -1,6 +1,5 @@
 ---
 title: Un script bien simple
-layout: post
 
 ---
 
@@ -25,7 +24,6 @@ new() {
   FILENAME="es/_posts/$DATE-${TITULO// /-}.markdown"
   echo "---
 title: $TITULO
-layout: post
 
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Forking Tasks"
 date: 2013-12-30 14:34
 comments: true

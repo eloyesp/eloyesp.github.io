@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Planificación de primero.
 date: '2014-03-04 22:15:37'
 ---

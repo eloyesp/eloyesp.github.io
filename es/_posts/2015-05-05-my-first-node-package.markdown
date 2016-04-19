@@ -1,6 +1,5 @@
 ---
 title: First Node Package
-layout: post
 ---
 
 I've been trying Node and NPM for a while and I'm learning a lot about that. To

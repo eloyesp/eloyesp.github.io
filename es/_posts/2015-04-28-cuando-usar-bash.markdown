@@ -1,6 +1,5 @@
 ---
 title: ¿cuándo usar bash?
-layout: post
 ---
 
 Es sabido que los lenguajes tienen una tarea en la que brillan, en el caso de bash, esa tarea es la automatización de tareas en la cual se integran diversas herramientas.

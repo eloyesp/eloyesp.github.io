@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Buenas ideas
 date: '2014-03-30 18:59:56'
 ---

@@ -1,6 +1,5 @@
 ---
 title: Firefox experience
-layout: post
 ---
 
 I'm been using Firefox for a long time (9 years now, more, I'm not even sure), 
