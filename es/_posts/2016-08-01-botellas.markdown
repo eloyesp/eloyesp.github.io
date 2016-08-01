@@ -1,0 +1,49 @@
+---
+tags:
+  - ideas
+---
+
+Siempre me enojó mucho que las botellas retornables sean sólo de las primeras
+marcas y me quedé bastante tiempo pensando por qué pasaría algo tan poco
+conveniente (para todos, excepto para las primeras marcas obvio). Este es un
+problema grave para las segundas marcas ya que competir con los precios se hace
+muy difícil y, lo más importante, es un problema para todos por la
+contaminación.
+
+Me parece que el problema está en el volumen en que se manejan, porque
+segundas marcas hay muchas de forma que el volumen que maneja cada una es
+menor, cosa que impide que las empresas puedan tener suficientes botellas
+circulando. Esa fue mi primera teoría, ahora me parece que el problema es que
+la inversión inicial es muy grande y las empresas no pueden empezar a pensarlo.
+
+Hace un tiempo se me ocurrió una de esas ideas locas para atacar ambos
+problemas, que obviamente no se como llevar a la práctica, así que publico aquí
+por si alguien se le ocurre cómo hacer.
+
+La idea no es tan loca, es hacer una botella retornable universal, con valor de
+cambio propio, que pueda ser utilizada por distintas empresas, o sea por todas
+las segundas marcas del mercado. Para costear la inversión inicial, pensé en
+una campaña de *crowdfounding*, o sea que el proyecto se pague entre todos.
+
+Los distintos premios serían, por ejemplo para las empresas que piensen
+utilizar la botella, formar parte en el proceso de diseño y disponer de
+botellas para empezar, para los kioskeros que ayuden: las primeras botellas
+(llenas) a un precio preferencial, para los usuarios, bonos de descuento, etc.
+
+Por otro lado, la idea es abrir el negocio, para que puedan entrar otros en el
+medio, por ejemplo, podría haber empresas que sólo limpien/higienicen las
+botellas, de forma que las empresas de bebidas puedan comprar las botellas ya
+preparadas para rellenar.
+
+Además la cuestión de que las botellas sean compartidas por distintas empresas,
+facilita la movilidad de las mismas permitiendo que por ejemplo Naranpol
+exporte a Córdoba botellas que pueden ahí ser compradas por Pritty y exportadas
+a su vez a Santa Fe, de este modo, ambas empresas ganan un mercado a la vez que
+bajan los costos.
+
+La desventaja para las empresas es la perdida de identidad comercial ya que la
+botella va a ser igual siempre, pero la gran mayoría de las segundas marcas
+usan botellas básicamente iguales. Yo creo que la dificultad más grande para
+implementar una idea así, es el cambio de mentalidad, ya que en vez de competir
+entre marcas estarían trabajando juntas y ese cambio de cabeza es lo que más
+cuesta.
