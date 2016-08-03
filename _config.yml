@@ -19,3 +19,6 @@ defaults:
 markdown: kramdown
 permalink: pretty
 safe: true
+
+# Serving
+host: 0.0.0.0
