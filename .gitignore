@@ -1,1 +1,3 @@
-_site
+# temp files
+/.jekyll-metadata
+/_site/
