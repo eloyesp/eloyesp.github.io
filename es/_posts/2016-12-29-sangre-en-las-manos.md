@@ -52,7 +52,7 @@ Este mecanismo está oculto, pero se puede intentar hacer más evidente,
 supongamos por un momento que no se realiza ese año de transición, que los
 "científicos recomendados" son inmediatamente incorporados en las otras
 instituciones, para lo cual se despide a igual número de investigadores de
-dichas instituciones, bueno, eso mismo es lo que está pasando, pero con un año
+dichas instituciones. Bueno, eso mismo es lo que está pasando, pero con un año
 de transición.
 
 ## Reclamos
