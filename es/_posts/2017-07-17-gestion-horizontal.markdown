@@ -2,14 +2,12 @@
 title: Gestión Horizontal
 ---
 
-Hace ya varios años le vengo dando vueltas a una de mis extravagantes ideas de
-aplicación y de esta no escribí casi nada, solo comenté algo al pasar sobre un
-sistema que use el azar como parte de un sistema de gestión, pero esa descripción es muy vaga y dista de ser real.
-
-La idea de la aplicación es permitir la gestión de una organización, digamos
-una empresa, una cooperativa, un estado o lo que sea, sin necesidad de que haya
-personas especializadas en las tareas de gestión, o sea, tener una dirección
-sin directores o una política sin políticos.
+Hace varios años le vengo dando vueltas a la idea de cómo una aplicación podría
+ayudar a hacer posible la gestión horizontal de un grupo de personas trabajando
+con un fin común. La idea es que esta aplicación delegue las tareas de
+dirección, de forma que todos los integrantes del grupo tomen decisiones sin
+que unos pocos centralicen el poder, o sea, tener una dirección sin directores
+o una política sin políticos.
 
 Actualmente, en el estado, estos roles se definen mediante elecciones y hay
 medidas que supuestamente evitarían que una persona concentre mucho poder
@@ -34,7 +32,7 @@ Entonces la aplicación tiene tres partes, por un lado, la legislación, por otr
 lado la toma de decisiones y por otro la generación de datos para la toma de
 decisiones.
 
-## Legislación
+## Normativa
 
 Mi idea inicial con respecto a la escritura de la normativa, es utilizar algo
 similar al wiki, aunque se podría pensar como un [repositorio con
