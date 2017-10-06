@@ -249,6 +249,10 @@ a:visited { color: #205caa; }
   padding-left: 0;
 }
 
+.post img {
+  max-width: 100%;
+}
+
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;
