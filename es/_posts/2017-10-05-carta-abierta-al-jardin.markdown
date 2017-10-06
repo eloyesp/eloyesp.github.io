@@ -76,5 +76,4 @@ parecieron feas y por qué.
 La respuesta que recibí del jardín, fue sintética y enigmática, aquí la dejo
 para que puedan analizarla:
 
-![La respuesta del jardín]({{ "/images/respuesta-del-jardin.jpg" | absolute_url
-}})
+![La respuesta del jardín]({{ "/images/respuesta-del-jardin.jpg" | relative_url }})
