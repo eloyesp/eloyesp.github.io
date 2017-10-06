@@ -5,7 +5,7 @@ description: |
   A simple blog, because it help me to learn.
   Without writing there is no learning.
 baseurl: ""
-url: "http://eloyesp.github.io"
+url: "https://eloyesp.github.io"
 twitter_username: eloyesp
 github_username:  eloyesp
 defaults:
