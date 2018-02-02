@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<h1>Experience</h1>
+
+<p>
+This is a list of some projects I've been working on
+</p>
+
+<ul class="projects">
+{% for project in site.data.projects %}
+<li>
+  <h2><a href="{{ project.url }}">{{ project.name }}</a></h2>
+  <p class="role">{{ project.role}}</p>
+  <p class="period">
+    {{ project.from | append: '-01' | date: "%b %Y" }}
+    -
+    {% if project.to %}
+    {{ project.to | append: '-01' | date: "%b %Y" }}
+    {% else %}
+    present
+    {% endif %}
+  </p>
+  {% if project.humans %}
+  <p>
+  <a style="filter: invert(1);" href="{{ project.humans }}">
+    <img src="{{ 'images/humanstxt.png' | relative_url }}" alt="humans.txt">
+  </a>
+  </p>
+  {% endif %}
+{% endfor %}
+</ul>
