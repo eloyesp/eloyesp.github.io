@@ -8,9 +8,6 @@ new() {
   DATE=`date +%Y-%m-%d`
   FILENAME="es/_posts/$DATE-${TITULO// /-}.markdown"
   echo "---
-title: $TITULO
-layout: post
-
 ---
 
 " >> $FILENAME
@@ -19,5 +16,7 @@ layout: post
 
 case "$1" in
   new) new;;
+  *)
+    echo "USAGE: blog [new]";;
 esac
 
