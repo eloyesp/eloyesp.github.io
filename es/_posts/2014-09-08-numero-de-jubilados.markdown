@@ -19,5 +19,5 @@ A nadie le gusta pensar que un día va a tener 50 años, pero posiblemente
 eso pase y para ese entonces no me parece menor estar entre gente de
 confianza.
 
- [1]: {% post_url 2014-06-09-el-hombre-chancho %}
+ [1]: {% post_url /es/2014-06-09-el-hombre-chancho %}
  [2]: http://www.payscale.com/career-news/2014/08/3-signs-that-you%27re-getting-fired

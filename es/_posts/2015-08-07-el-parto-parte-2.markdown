@@ -2,7 +2,7 @@
 title: El parto (parte 2)
 ---
 
-[Parte 1]({% post_url 2015-07-18-el-parto-parte-1 %})
+[Parte 1]({% post_url /es/2015-07-18-el-parto-parte-1 %})
 
 Cuando entramos al hospital teníamos la ventaja de que ya teníamos idea de para
 dónde había que ir, unos amigos habían tenido un hijo ahí hacía bastante poco,
