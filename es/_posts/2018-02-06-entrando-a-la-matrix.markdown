@@ -37,7 +37,7 @@ trabajo, la privacidad sobre la seguridad y la libertad sobre la propiedad.
 
 En relación con la cultura ciberpunk, está la cultura cipherpunk que pone el
 foco en la criptografía y la privacidad y que está en la base de creación de
-las [criptomonedas][na] como mecanismo para escapar del control del estado y de
+las [criptomonedas][3] como mecanismo para escapar del control del estado y de
 los bancos, ya que se vincula fuertemente con el [anarquismo][na].
 
 Estos movimientos culturales, entramados con la cultura hacker fueron llamados
@@ -101,4 +101,5 @@ entradas.
 
  [1]: {{ site.base_url }}{% post_url /es/2017-10-05-carta-abierta-al-jardin %} "Carta abierta al jardín Jean Piaget"
  [2]: {{ site.base_url }}{% post_url /es/2017-08-31-sobre-sandstorm %} "Sobre Sandstorm"
+ [3]: {{ site.base_url }}{% post_url /es/2018-02-27-criptomonedas %}
  [na]: javascript:alert('disculpas, pero esta entrada todavía no la escribí') "No escribí esta nota todavía"
