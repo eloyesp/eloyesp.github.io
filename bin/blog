@@ -14,8 +14,18 @@ new() {
   vi $FILENAME
 }
 
+publish() {
+  select draft in _drafts/*
+  do
+    DATE=`date +%Y-%m-%d`
+    mv $draft es/_posts/$DATE-${draft##*/}
+    exit
+  done
+}
+
 case "$1" in
   new) new;;
+  publish) publish;;
   *)
     echo "USAGE: blog [new]";;
 esac
