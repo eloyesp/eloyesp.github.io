@@ -4,9 +4,31 @@ layout: default
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
+<style>
+header {
+  font-size: 1.5em;
+}
+
+header, section {
+  overflow: auto;
+}
+
+header h1 {
+  margin-top: 1em;
+}
+
+.profile_img {
+  float: left;
+  height: 6em;
+  border-radius: 50%;
+  margin: 1rem;
+}
+</style>
+
 <header>
+  <img alt="eloyesp" src="{{ "images/profile.jpg" | relative_url }}" class="profile_img">
   <h1>{{ site.author }}</h1>
-  <p class="tagline">{{ site.en.author_title }}</p>
+  <p class="tagline">{{ site.author_title }}</p>
 </header>
 
 <section>
@@ -36,6 +58,8 @@ layout: default
 
   {% for recommendation in site.data.cv.recommendations %}
   <section>
+    <img alt="{{ recommendation.name }}"
+         src="{{ "images/profile.jpg" | replace: "profile", recommendation.name | relative_url }}" class="profile_img">
     <blockquote>
       {{ recommendation.text | markdownify }}
       <cite>
@@ -47,12 +71,14 @@ layout: default
   {% endfor %}
 </section>
 
-  {% for position in site.data.cv.positions %}
+<section>
+  <h1>Projects</h1>
+
+  {% for project in site.data.cv.projects %}
   <section>
-    <h3>{{ position.title }}</h3>
-    <h4>{{ position.company }}</h4>
-    <p>{{ position.started }} - {{ position.finished | default: 'Present' }}</p>
+    <h3>{{ project.title }}</h3>
+    <p>{{ project.start }} - {{ project.end | default: 'Present' }}</p>
+    {{ project.description | markdownify }}
   </section>
   {% endfor %}
-
 </section>
