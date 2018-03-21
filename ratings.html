@@ -1,0 +1,11 @@
+---
+layout: page
+---
+
+<h1>Peliculas que vi</h1>
+
+{% for rating in site.data.ratings %}
+<section data-rating='{{ rating | jsonify }}'>
+  <h2>{{ rating.Title }} {{ rating["Your Rating"] }}</h2>
+</section>
+{% endfor %}
