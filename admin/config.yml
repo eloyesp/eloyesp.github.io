@@ -1,0 +1,30 @@
+backend:
+  name: github
+  repo: eloyesp/eloyesp.github.io
+
+media_folder: "images"
+
+collections:
+  - name: "english_posts"
+    label: "Posts en ingles"
+    folder: "en/_posts"
+    create: true
+    extension: markdown
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Keywords", name: "keywords", widget: "string", required: false}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+  - name: "spanish_posts"
+    label: "Posts en español"
+    folder: "es/_posts"
+    create: true
+    extension: markdown
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Keywords", name: "keywords", widget: "string", required: false}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
