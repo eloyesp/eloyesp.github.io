@@ -58,7 +58,7 @@ Esta organización de Internet en nodos centrales de distribución que se
 conectan entre ellos, en vez de nodos conectados directamente sin
 intermediarios, marca la diferencia entre [distribuido y descentralizado][na].
 Las alternativas a estos sistemas se popularizan de a poco, como es el caso de
-[mastodon][na] que forma parte del fediverse (o universo federado).
+[mastodon][4] que forma parte del fediverse (o universo federado).
 
 Por el contrario, las corporaciones buscan utilizar esta ilusoria libertad de
 Internet para crear lo que se conoce como [fake market][na] en el cual unos
@@ -102,4 +102,5 @@ entradas.
  [1]: {{ site.base_url }}{% post_url /es/2017-10-05-carta-abierta-al-jardin %} "Carta abierta al jardín Jean Piaget"
  [2]: {{ site.base_url }}{% post_url /es/2017-08-31-sobre-sandstorm %} "Sobre Sandstorm"
  [3]: {{ site.base_url }}{% post_url /es/2018-02-27-criptomonedas %}
+ [4]: {{ site.base_url }}{% post_url /es/2018-03-23-nacimiento-y-ocaso-de-una-esperanza %}
  [na]: javascript:alert('disculpas, pero esta entrada todavía no la escribí') "No escribí esta nota todavía"
