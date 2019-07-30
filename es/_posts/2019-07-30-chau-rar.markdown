@@ -1,0 +1,41 @@
+---
+title: Chau rar
+---
+
+En mi lucha para pasarme al software libre, uno de mis problemas son los
+archivos comprimidos, porque yo solía ser fana de WinRaR, pero desgraciadamente
+el muchacho que lo hizo nunca cambió de opinión con respecto a la libertad de
+los usuarios.
+
+Así que ayer Mariel me planteo que quizás podríamos reemplazar todos esos rar
+que están guardados por zip o algún otro formato. Recién logré escribir un
+script que hace exactamente eso.
+
+El problema es que para funcionar requiere tener rar, pero bueno, se [puede
+descargar acá][1] y debería ser la última vez que lo ejecutamos.
+
+[1]: https://www.winrar.es/descargas
+
+``` bash
+#!/bin/bash
+
+set -x
+set -e
+
+# dado un archivo rar
+RAR="$1"
+EXTRACTED=`basename -s .rar "$RAR"`
+SOURCE_DIR=`dirname "$RAR"`
+
+# lo extraemos usando el rar que bajamos
+~/tmp/rar/rar x -ad "$RAR"
+
+# lo volvemos a comprimir
+tar caf "$SOURCE_DIR/$EXTRACTED.tar.gz" "$EXTRACTED"
+
+# limpiamos
+rm -rf "$EXTRACTED"
+rm -rf "$RAR"
+```
+
+Espero que a alguien le sirva.
