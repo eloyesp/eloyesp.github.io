@@ -1,0 +1,45 @@
+---
+title: Instalando la Epson L555
+---
+
+Estoy usando Trisquel 9 ahora y como siempre tengo problemas con la impresora,
+que requiere algún que otro software privativo para poder funcionar.
+
+Al final logré hacer andar todo, incluso el escáner por red, intento comentar
+como hice:
+
+Bajé un paquete deb de [open printing][1] pero no lo instalé, en vez de eso, lo
+descomprimí (el archivo deb es un archivo comprimido) y busqué adentro el
+directorio `opt` y todo el contenido lo copié (como root) en `/opt`, que es
+básicamente lo que haría el instalador, pero tocando más cosas del sistema.
+
+
+``` bash
+ar vx epson-inkjet-printer-201207w_1.0.0-1lsb3.2_amd64.deb
+tar xaf data.tar.gz
+sudo cp -R opt/epson-inkjet-printer-201207w /opt
+```
+
+Además de eso, fue necesario instalar algunos paquetes (pero en este caso de
+los repositorios), lsb (un sistema para que funcionen los drivers de Epson que
+pusimos en opt), los paquetes para imprimir, la interfase interna del escáner y
+una interfase gráfica para escanear.
+
+``` bash
+sudo aptitude install lsb trisquel-print-system sane-utils simple-scan
+```
+
+Después de eso, configurar la impresora, para lo cual abrí el navegador y
+accedí a CUPS, que se administra mediante una web en
+[http://localhost:631/][2]. Ahí se puede "Añadir impresora" y debería encontrar
+la impresora conectada a la red, al configurarla te pide buscar el modelo, pero
+también te permite "Proporcionar un archivo PPD", que es lo que hacemos y lo
+buscamos en `/opt/epson-inkjet-printer-201207w/ppds/Epson/` (hay para varias
+impresoras de la serie "L").
+
+Después de eso, la impresora simplemente anduvo, inclusive el escáner funcionó
+de primera a través de la red.
+
+ [1]: http://openprinting.org/printer/Epson/Epson-L555_Series "Open Printing: Epson L555 Series"
+ [2]: http://localhost:631/
+
