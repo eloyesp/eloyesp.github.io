@@ -1,5 +1,7 @@
 ---
 title: Chau wasap
+image: no_wasap.jpg
+excerpt: Una explicación de por qué dejo wasap.
 ---
 
 Escuché una canción, hace ya un tiempo que me permitió pensar mi postura
