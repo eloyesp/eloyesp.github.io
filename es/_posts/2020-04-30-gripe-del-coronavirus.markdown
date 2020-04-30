@@ -50,10 +50,10 @@ o menos bien, como por ejemplo [our world in data][5] que permite ver los datos
 en proporcion a la población (y por lo tanto darle un poco de sentido a la
 comparación entre países).
 
-También encontré datos locales sobre los testeos y una página que permite manipular los
-datos de un tal [Emmanuel][6], en la cual se mostraba un poco (la página se va
-actualizando), cómo la mortalidad del coronavirus en la medida en que se testea
-más (y se encuentran por lo tanto más casos asintomáticos).
+También encontré datos locales sobre los testeos y una página que permite
+manipular los datos de un tal [Emmanuel][6], en la cual se mostraba (la página
+se va actualizando) como baja la mortalidad del coronavirus en la medida en que
+se testea más (y se encuentran por lo tanto más casos asintomáticos).
 
 Pero hay datos que me cuesta mucho obtener, para poder terminar de entender
 estos datos, como por ejemplo: el número de muertes normales en el mismo
@@ -140,8 +140,8 @@ Hasta dónde pude investigar, mi conclusión actual es que la tasa de mortalidad
 del virus está entre 0.1% y 0.5%, dependiendo de la saturación del sistema de
 salud, lo cual explica el freno de la mortalidad en España, Italia y Gran
 Bretaña, por la protección de rebaño (y no por el toque de queda). Por otro
-lado, me parece que las diferentes tasas de mortalidad entre países, me parece
-que se relaciona con la concentración de la población en las urbes. Según esta
+lado, las diferentes tasas de mortalidad entre países, me parece que se pueden
+explicar por la concentración poblacional en las grandes urbes. Según esta
 idea, Argentina tendría muchas más muertes que Brasil durante el invierno.
 
 Más allá de la cuestión del virus en si, la cuestión de [la respuesta][b] me
