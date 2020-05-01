@@ -98,9 +98,13 @@ pseudo ciencia, toda idea alternativa se compara con los antivacunas y de ahí
 con los terraplanistas. Todo planteo de una corporación intentando sacar
 tajada se transforma en una teoría conspirativa imposible.
 
-Ayer compartí uno de los artículos anteriores en un grupo y pedí opiniones,
-ninguna opinión era sobre el contenido, sólo entraban en juego las credenciales
-del autor ¿dónde fue publicado?
+Al intentar hablar estos temas en grupos de discusión la misma se torna siempre
+en la cuestión de las credenciales del autor y el origen del contenido, por
+ejemplo: ¿dónde fue publicado? De este modo, se deja de lado la discusión sobre
+el contenido en si, sus argumentos, la validez de los datos y los
+razonamientos. En parte esto es promovido por organizaciones como la OMS que se
+declara a si misma como [la única fuente fiable de información][15],
+promoviendo de esta forma que pensar sea un deber de unos pocos.
 
 Con respecto a la cuestión de las conspiraciones, me parece que hay que aclarar
 algo y es que si bien algunas teorías conspirativas como el terraplanismo
@@ -125,6 +129,7 @@ medios pueden mentir.
 [8]: https://es.wikipedia.org/wiki/Racismo_científico
 [9]: https://rolandoastarita.blog/2020/03/31/interpretaciones-virus-conspirativas/
 [10]: https://es.wikipedia.org/wiki/Falacia_del_hombre_de_paja
+[15]: https://es.wikipedia.org/wiki/Desinformaci%C3%B3n_sobre_la_pandemia_de_enfermedad_por_coronavirus_de_2019-2020
 
 ## Otras miradas
 
