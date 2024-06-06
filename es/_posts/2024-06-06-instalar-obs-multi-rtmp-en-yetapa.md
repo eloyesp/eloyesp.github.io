@@ -2,6 +2,10 @@
 title: Instalar OBS multi RTMP en EterTICs Yetapa
 ---
 
+Ayer vino mi hermano con el desafío de instalar un plugin de OBS que estaba
+complicado, al final lo logramos compilación mediante, los detalles a
+continuación.
+
 [EterTICs][etertics] es una distro GNU/Linux para radios libres, que en este caso está
 basado de [Devuan][] 4 (Chimaera) que está basado en Debian 11 (Bullseye). Por lo
 tanto, tiene versiones estables de todo, entre ello del [OBS][].
