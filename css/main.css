@@ -34,12 +34,12 @@ a:visited { color: #205caa; }
   zoom: 1;
 }
 
-cite {
-  font-size: 0.8em;
+/* cite {
+  font-size: 1.8em;
   padding: 0.25rem;
   border: solid 1px aliceblue;
   float: right;
-}
+} */
 
 
 /* Layout Styles */
