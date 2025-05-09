@@ -24,9 +24,9 @@ otros actores, igualmente relevantes, complies y en algunos casos protagonistas
 en los cambios de incentivos a los que se hace referencia, por ejemplo en la
 siguiente cita:
 
-"(...) la institución que establece esta clase de premios y castigos es el
+> la institución que establece esta clase de premios y castigos es el
 estado y si la examinamos de cerca veremos que nos encontramos frente a la pieza
-del rompecabezas que nos estaba faltando (...)"
+del rompecabezas que nos estaba faltando
 
 Indudablemente, el Estado es un agente importante en determinar el sistema de
 incentivos, pero no es el único y posiblemente no es el más relevante, las
@@ -41,10 +41,10 @@ complicidad del aparato estatal pero su rol en estos casos es secundario.
 
 Luego hay otra omisión importante, por ejemplo en la siguiente cita:
 
-"los políticos y los burócratas no ganan personalmente cuando hacen un buen
+> los políticos y los burócratas no ganan personalmente cuando hacen un buen
 trabajo a juicio de los contribuyentes sino cuando logran expandir el área de
 influencia de su poder independientemente de los resultados de sus
-intervenciones"
+intervenciones
 
 Aquí se está reduciendo al Estado, muy convenientemente a los políticos y
 burócratas (lo que ahora llamaríamos "la casta"), aumentando el mito de que el
